@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openstack = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "Mi cerebro ya no funciona",
+"autor" => "Cruz Acosta",
+"resumen" => "Mi cerebro ya no puede trabajar, ha pasado muchas horas en funcionamiento",
 ];
 ?>
